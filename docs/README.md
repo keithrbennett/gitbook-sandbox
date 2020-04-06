@@ -1,2 +1,1 @@
-# Initial page
-
+# This is the README page
