@@ -1,3 +1,0 @@
-# Readme
-
-* [Timestamp](timestamp.md)

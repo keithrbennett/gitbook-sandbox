@@ -1,13 +1,5 @@
-# Summary
+# Table of contents
 
-* [Timestamp](timestamp.md)
+* [Initial page](README.md)
+* [Test Page Created on Sandbox Web Site](test-page-created-on-sandbox-web-site.md)
 
-Added .git/hooks/pre-commit:
-
-```
-#!/bin/sh
-echo "Text save date/time: `date -u`" > docs/timestamp.md
-git add docs/timestamp.md
-```
-
-foo
